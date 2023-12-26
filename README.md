@@ -8,9 +8,10 @@ This is a bot that asks questions about Python programming language.
 
 1. Clone this repository
 2. Install requirements
-3. Run `python3 bot.py`
-4. Answer the questions
-5. Enjoy!
+3. Create `.env` file with `TOKEN` variable
+4. Run `python3 bot.py`
+5. Answer the questions
+6. Enjoy!
 
 ## Used libraries
 
